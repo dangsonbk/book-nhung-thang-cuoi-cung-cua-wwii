@@ -8,5 +8,5 @@
    * [Chương 3](chuong_3.md)
    * [Chương 4](chuong_4.md)
    * [Chương 5](chuong_5.md)
-   * Chương 6
+   * [Chương 6](chuong_6.md)
 
