@@ -1,3 +1,1 @@
-# Phần I
-
-Thành phố
+# Phần I: Thành phố
