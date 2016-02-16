@@ -17,5 +17,5 @@
    * [Chương 5](P2_chuong_5.md)
 * [Phần III - Mục tiêu](chapter3.md)
    * [Chương 1](P3_chuong_1.md)
-   * Chương 2
+   * [Chương 2](P3_chuong_2.md)
 
