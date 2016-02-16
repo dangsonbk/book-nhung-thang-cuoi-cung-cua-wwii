@@ -25,5 +25,5 @@
    * [Chương 2](P4_chuong_2.md)
    * [Chương 3](P4_chuong_3.md)
    * [Chương 4](P4_chuong_4.md)
-   * Chương 5
+   * [Chương 5](P4_chuong_5.md)
 
