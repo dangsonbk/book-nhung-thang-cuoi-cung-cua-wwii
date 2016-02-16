@@ -22,5 +22,5 @@
    * [Chương 4](P3_chuong_4.md)
 * [Phần IV - Quyết định](Chapter4.md)
    * [Chương 1](P4_chuong_1.md)
-   * Chương 2
+   * [Chương 2](P4_chuong_2.md)
 
