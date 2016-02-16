@@ -18,5 +18,5 @@
 * [Phần III - Mục tiêu](chapter3.md)
    * [Chương 1](P3_chuong_1.md)
    * [Chương 2](P3_chuong_2.md)
-   * Chương 3
+   * [Chương 3](P3_chuong_3.md)
 
