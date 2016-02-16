@@ -1,6 +1,7 @@
 {
     "plugins": [
-        "facebook"
+        "facebook",
+        "fontsettings"
     ],
     "pluginsConfig": {}
 }
