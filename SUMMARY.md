@@ -16,4 +16,5 @@
    * [Chương 4](P2_chuong_4.md)
    * [Chương 5](P2_chuong_5.md)
 * [Phần III - Mục tiêu](chapter3.md)
+   * Chương 1
 
