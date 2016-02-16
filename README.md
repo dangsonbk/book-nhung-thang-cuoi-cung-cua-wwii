@@ -18,4 +18,5 @@ NĂM 1962, PETER BỊ CHÍNH NGƯỜI DÂN MÌNH BẮN VÀ ĐỂ NẰM CHẾT B�
 ---
 
 Bản dịch được thực hiện bởi QueenieQ: https://queenieq.wordpress.com
+
 Github page: https://github.com/dangsonbk/book-nhung-thang-cuoi-cung-cua-wwii
