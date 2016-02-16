@@ -1,7 +1,6 @@
 {
     "plugins": [
-        "fontsettings",
-        "github"
+        "fontsettings"
     ],
     "pluginsConfig": {}
 }
