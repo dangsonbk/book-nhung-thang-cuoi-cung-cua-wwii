@@ -20,7 +20,7 @@
    * [Chương 2](P3_chuong_2.md)
    * [Chương 3](P3_chuong_3.md)
    * [Chương 4](P3_chuong_4.md)
-* [Phần IV - Quyết định](Chapter4.md)
+* [Phần IV - Quyết định](chapter4.md)
    * [Chương 1](P4_chuong_1.md)
    * [Chương 2](P4_chuong_2.md)
    * [Chương 3](P4_chuong_3.md)
