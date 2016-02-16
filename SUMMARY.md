@@ -9,4 +9,5 @@
    * [Chương 4](chuong_4.md)
    * [Chương 5](chuong_5.md)
    * [Chương 6](chuong_6.md)
+* Phần II - Vị tướng
 
