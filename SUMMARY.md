@@ -12,4 +12,5 @@
 * [Phần II - Vị tướng](chapter2.md)
    * [Chương 1](P2_chuong_1.md)
    * [Chương 2](P2_chuong_2.md)
+   * Chương 3
 
