@@ -27,4 +27,5 @@
    * [Chương 4](P4_chuong_4.md)
    * [Chương 5](P4_chuong_5.md)
    * [Chương 6](P4_chuong_6.md)
+* Phần V - Trận chiến
 
