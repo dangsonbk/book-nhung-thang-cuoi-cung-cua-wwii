@@ -29,4 +29,5 @@
    * [Chương 6](P4_chuong_6.md)
 * [Phần V - Trận chiến](chapter5.md)
    * [Chương 1](P5_chuong_1.md)
+   * Chương 2
 
