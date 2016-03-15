@@ -30,4 +30,5 @@
 * [Phần V - Trận chiến](chapter5.md)
    * [Chương 1](P5_chuong_1.md)
    * [Chương 2](P5_chuong_2.md)
+   * Chương 3
 
