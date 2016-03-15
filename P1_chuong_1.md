@@ -1,6 +1,6 @@
 # Chương 1
 
-Ở những vùng phía Bắc bán cầu, bình minh thường đến sớm. Ngay khi những kẻ đánh bom rút khỏi thành phố, những tia sáng đầu ngày đã xuất hiện ở đằng đông. Trong cái tĩnh lặng của buổi sớm, những cột khói đen sừng sững bốc dựng khắp ở quận Pankow, Weissensee và Lichtenberg. Thật khó phân biệt giữa ánh ban mai mờ ảo với ánh lửa từ một Berlin vừa bị đánh bom rực chiếu lên những đám mây sà xuống thấp.
+Ở những vùng phía Bắc bán cầu, bình minh thường đến sớm. Ngay khi những kẻ đánh bom rút khỏi thành phố, tia sáng đầu ngày đã xuất hiện ở đằng đông. Trong cái tĩnh lặng của buổi sớm, những cột khói đen sừng sững bốc dựng khắp ở quận Pankow, Weissensee và Lichtenberg. Thật khó phân biệt giữa ánh ban mai mờ ảo với ánh lửa từ một Berlin vừa bị đánh bom rực chiếu lên những đám mây sà xuống thấp.
 
 Khi khói chầm chậm tan đi trên những đống đổ nát, thành phố bị đánh bom nhiều nhất nước Đức lừng lững đứng đó, ảm đạm và rùng rợn. Cả thành phố đen kịt vì tro bụi, lỗ chỗ hàng nghìn hố bom và điểm xuyết những cây cột xoắn từ các tòa nhà đổ nát. Toàn bộ các khu căn hộ biến mất, toàn vùng trung tâm thủ đô đã bị xóa sổ. Ở những vùng đất đó, nơi từng là đại lộ và đường phố giờ biến thành đường mòn gồ ghề, đâm xuyên qua những ngọn núi đổ nát. Khắp nơi là những tòa nhà không mái, không cửa sổ, nội thất bị phá hủy hoàn toàn há miệng đứng nhìn trời.
 
